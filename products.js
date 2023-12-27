@@ -2,7 +2,7 @@ export let products = [
     {
         name: 'Black and Gray Athletic Cotton Socks - 6 Pairs',
         rating: 45,
-        price: 109,
+        price: 1099,
         quantity: 1,
         reviews: 87,
         image: 'athletic-cotton-socks-6-pairs.jpg',
@@ -64,7 +64,7 @@ export let products = [
         name: 'Plain Hooded Fleece Sweatshirt',
         rating: 45,
         deliverycost:0,
-        price: 2400,
+        price: 2499,
         quantity: 1,
         reviews: 317,
         image: 'plain-hooded-fleece-sweatshirt-yellow.jpg'
